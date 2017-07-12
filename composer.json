@@ -1,5 +1,5 @@
 {
-    "name": "unicodeveloper/laravel-identify",
+    "name": "misterpaladin/laravel-identify",
     "description": "A Laravel 5 Package Provider to Identify/detect a user's browser, device, operating system and Language",
     "keywords": ["github", "laravel","Open Source","Evangelist", "Detect", "Identify", "Browser", "Operating System", "Language"],
     "license": "MIT",
@@ -7,6 +7,10 @@
       {
         "name": "unicodeveloper",
         "email": "prosperotemuyiwa@gmail.com"
+      },
+      {
+        "name": "De Sik Min",
+        "email": "e.min@milax.com"
       }
    ],
    "minimum-stability": "stable",
