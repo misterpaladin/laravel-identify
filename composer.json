@@ -16,7 +16,7 @@
    "minimum-stability": "stable",
    "require": {
     "php": ">=5.5.9",
-    "illuminate/support": "5.4.*",
+    "illuminate/support": "5.*",
     "sinergi/browser-detector": "6.0.*"
    },
    "require-dev": {
